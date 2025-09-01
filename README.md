@@ -94,50 +94,6 @@ Minha abordagem de gestão é orientada por dados e focada na eficiência e melh
 
 ### 🛠️ Habilidades de Gestão
 
-Você tem toda razão. Peço desculpas pela falha. O motivo é que o Markdown do GitHub, por padrão, ignora múltiplos espaços, fazendo com que o alinhamento não funcione como esperado.
-
-Para resolver isso de forma definitiva e garantir que as barras de habilidades fiquem perfeitamente alinhadas, a melhor solução é usar um código HTML dentro do Markdown. Isso força o alinhamento e mantém a formatação consistente.
-
-Eu fiz a correção e preparei o código completo do seu README.md. Agora, a seção de habilidades ficará com a organização visual que você deseja.
-
-Versão Final para o seu GitHub (README.md)
-Markdown
-
-# ⚙️📈 Diego da Costa Sarmento
-
-**`Gestor de Projetos, Mestre em Gestão e Consultor de Infraestrutura.`**
-
-Com mais de uma década de experiência em **gestão de projetos, infraestrutura, controladoria e ativos**, sou um profissional com um histórico comprovado em otimizar processos e liderar equipes em ambientes de alta complexidade. Minha abordagem integra **visão sistêmica e pensamento estratégico** para impulsionar a excelência organizacional.
-
-Minha trajetória profissional me proporcionou uma visão única. Comecei no setor público, onde aprimorei a **análise de dados** e a **prestação de contas**, habilidades que me permitiram transitar para o setor privado. Destaque para minha atuação na **Localiza&Co**, onde gerenciei projetos de infraestrutura em mais de 70 unidades.
-
----
-
-### 🏆 Resultados Chave
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Redução%20de%20Custos-10%25%20(3%20anos)-4169E1?style=for-the-badge&logo=moneygram&logoColor=white" alt="Redução de Custos">
-  <img src="https://img.shields.io/badge/Índice%20de%20Infraestrutura-80%25%2B-2E8B57?style=for-the-badge&logo=servicenow&logoColor=white" alt="Índice de Infraestrutura">
-  <img src="https://img.shields.io/badge/Pulso%20de%20Satisfação-93%25-FFC0CB?style=for-the-badge&logo=googleforms&logoColor=white" alt="Pulso de Satisfação">
-  <img src="https://img.ies.io/badge/Acuracidade%20de%20Inventário-95%25%2B-B0C4DE?style=for-the-badge&logo=google&logoColor=white" alt="Acuracidade de Inventário">
-</p>
-
----
-
-### ✨ Recomendações do LinkedIn
-
-> "Diego é um profissional proativo e muito focado em resultados. Sua liderança foi essencial para otimizar os processos do nosso time."
->
-> **— Nome da Pessoa**, *Cargo e Empresa*
-
-> "Tive a oportunidade de trabalhar com Diego em projetos complexos, e sua expertise em gestão e controle orçamentário foi fundamental para o sucesso das iniciativas."
->
-> **— Nome da Pessoa**, *Cargo e Empresa*
-
----
-
-### 🛠️ Habilidades de Gestão
-
 * Resolução de Problemas: &nbsp; &nbsp; &nbsp; 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ (9/10)
 * Controle Interno:  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ (8/10)
 * Processos Corporativos: &nbsp; &nbsp; &nbsp; &nbsp; 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ (8/10)
