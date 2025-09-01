@@ -8,6 +8,18 @@ Minha trajetória começou no setor público, onde aprimorei a análise de dados
 
 Além de minha experiência em infraestrutura, tenho sólida atuação em gestão de ativos na Biopalma da Amazônia e em processos administrativos. Meu objetivo é continuar a integrar dados, pessoas e processos para impulsionar a excelência organizacional com uma visão sistêmica e pensamento estratégico. 
 
+### 🎓 Formação Acadêmica
+
+**Graduação** - Ciência Contábeis com Ênfase em Informática, Centro Superior do Pará (CESUPA);
+
+**Pós-Graduação** - MBA em Gestão de Projetos, Universidade de São Paulo (USP/ESALQ-);
+
+**Mestrado** - Mestrado em Gestão de Projetos, Instituto Politécnico do Porto (ESTG-IPP)
+  />
+</p>
+
+---
+
 ### 📊 Certificações e Ferramentas
 
 Minha abordagem de gestão é orientada por dados e focada na eficiência e melhoria contínua.
