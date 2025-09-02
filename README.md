@@ -12,10 +12,9 @@ Além de minha experiência em infraestrutura, tenho sólida atuação em gestã
 
 **Graduação** - Ciência Contábeis com Ênfase em Informática, Centro Superior do Pará (CESUPA);
 
-**Pós-Graduação** - MBA em Gestão de Projetos, Universidade de São Paulo (USP/ESALQ-);
+**Pós-Graduação** - MBA em Gestão de Projetos, Universidade de São Paulo (USP/ESALQ);
 
-**Mestrado** - Mestrado em Gestão de Projetos, Instituto Politécnico do Porto (ESTG-IPP)
-  />
+**Mestrado** (em andamento)- Mestrado em Gestão de Projetos, Instituto Politécnico do Porto (ESTG-IPP)
 </p>
 
 ---
@@ -105,7 +104,7 @@ Minha abordagem de gestão é orientada por dados e focada na eficiência e melh
 ### 🏆 Resultados Chave
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Redução%20de%20Custos-10%25%20(3%20anos)-4169E1?style=for-the-badge&logo=moneygram&logoColor=white" alt="Redução de Custos">
+  <img src="https://img.shields.io/badge/Redução%20de%20Custos-10%25%20-4169E1?style=for-the-badge&logo=moneygram&logoColor=white" alt="Redução de Custos">
   <img src="https://img.shields.io/badge/Índice%20de%20Infraestrutura-80%25%2B-2E8B57?style=for-the-badge&logo=servicenow&logoColor=white" alt="Índice de Infraestrutura">
   <img src="https://img.shields.io/badge/Pulse%20de%20Satisfação-93%25-FFC0CB?style=for-the-badge&logo=googleforms&logoColor=white" alt="Pulse de Satisfação">
   <img src="https://img.shields.io/badge/Acuracidade%20de%20Inventário-95%25%2B-B0C4DE?style=for-the-badge&logo=google&logoColor=white" alt="Acuracidade de Inventário">
@@ -128,7 +127,7 @@ Um líder atencioso, empático e parceiro e assertivo. Desenvolve seus liderados
 ### 🌐 Conecte-se comigo
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/diegocsarmento">
+  <a href="https://www.linkedin.com/in/diego-sarmento-9ba367110/">
     <img 
         alt="LinkedIn"
         title="Meu perfil no LinkedIn"
