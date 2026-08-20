@@ -2,12 +2,17 @@
 
 **`Accountant, KMP®, Master's in Project Management. Consultor de Manutenção com expertise em gestão ágil e melhoria contínua.`**
 
-Com mais de uma década de experiência em controladoria/contabilidade, gestão de ativos, gestão de projetos e infraestrutura, sou um profissional com um histórico comprovado em otimizar processos e liderar equipes em ambientes de alta complexidade.
+Profissional com mais de 15 anos de carreira na interseção entre governança corporativa, gestão de processos e performance operacional — com histórico comprovado em ambientes de alta complexidade, múltiplas filiais e contratos de grande porte.
 
-Minha trajetória começou no setor público, onde aprimorei a análise de dados e a prestação de contas, habilidades que me permitiram transitar para o setor privado em posições de liderança. Destaque para minha atuação na Localiza&Co, onde gerenciei projetos de infraestrutura em mais de 70 unidades, alcançando resultados significativos como a `redução de 10% nos custos por três anos consecutivos`. Lá, liderei equipes e otimizei o desempenho com foco em melhoria contínua e resultados, alcançando um `índice de infraestrutura de mais de 80%` e um `Pulse de Satisfação de 93%`.
+Atuo como Controller de Governança e Processos, conectando estratégia, dados e operação para gerar resultados mensuráveis. Minha base é sólida: sou Contador, com MBA em Gestão de Projetos pela USP e Mestrando pelo Instituto Politécnico do Porto, certificado em Lean Six Sigma Green Belt e KMP®.
 
-Além de minha experiência em infraestrutura, tenho sólida atuação em gestão de ativos na Biopalma da Amazônia e em processos administrativos. Meu objetivo é continuar a integrar dados, pessoas e processos para impulsionar a excelência organizacional com uma visão sistêmica e pensamento estratégico. 
+O que entrego na prática:
+Estruturo e implanto sistemas de governança orientados a dados — desde a modelagem de KPIs e OKRs até a criação de painéis executivos com alertas automáticos de desvio. Tenho experiência comprovada na gestão de ativos (CAPEX/OPEX), controle de contratos por margem e rentabilidade, e desenvolvimento de políticas de renovação de frota com projeção de 12 meses.
 
+Na Localiza&Co, liderei a estratégia regional de infraestrutura em 8 estados, atingindo saving recorrente de 10% no OPEX, NPS interno acima de 85% e índice de disponibilidade de ativos superior a 80% — entregando performance com governança em escala.
+
+Ao longo da carreira, migrei intencionalmente do papel de executor para o de arquiteto de soluções — profissional que diagnostica, estrutura e lidera a implantação de modelos de governança, sem se perder nos detalhes técnicos. Meu valor está na capacidade de traduzir complexidade operacional em linguagem estratégica e em decisões de negócio.
+Busco posições de liderança onde governança, dados e performance se encontram — como Head de Controladoria, Controller Sênior ou Gerente de Governança e Processos.
 ### 🎓 Formação Acadêmica
 
 **Graduação** - Ciência Contábeis com Ênfase em Informática, Centro Superior do Pará (CESUPA);
